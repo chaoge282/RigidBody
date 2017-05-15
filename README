@@ -1,0 +1,14 @@
+Name: Lichao Xu
+Email: lichao@clemson.edu
+Course Number: 8170
+HW Number: HW5
+HW due date: NOV,9,2016
+HW Description:
+    This assignment is about rigid body simulation,
+there is a box which can rotate and collide with plane.
+
+Keys Function:
+s -- start;
+r -- reset;
+p -- pause;
+q -- quit;
